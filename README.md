@@ -5,9 +5,10 @@
 ## Table of Contents
 - [About](#about)
 - [Getting Started](#getting-started)
-  - [Techstach](#prerequisites)
+  - [Techstack](#Techstack)
 - [Data Sets Used](#data-sets-used)
 - [Approach](#approach)
+- [Workflow](#workflow)
 
 ## About
 
@@ -36,6 +37,20 @@ To run this project, you need to have the following installed: - [Python](https:
 7. **Write Reports**: Finally, we'll write reports to tell Marico what we found. These reports will be easy to read and understand.
 
 8. **Make It Easy**: We'll make sure the tool is easy to use. Marico should be able to use it without any problems.
+
+## Workflow
+
+1. Understand Requirements
+2. Data Collection
+3. Data Preprocessing
+4. Exploratory Data Analysis (EDA)
+5. Feature Engineering
+6. Model Building
+7. Model Evaluation
+8. Report Generation
+9. Tool Development
+10. Testing and Deployment
+11. Feedback and Iteration
 
 ## Data Sets Used
 
